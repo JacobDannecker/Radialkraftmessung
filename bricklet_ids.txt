@@ -1,0 +1,4 @@
+relaybricklet Nt3
+tempbricklet 23od 
+loadcellright PkG
+loadcellleft 29oF
