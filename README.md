@@ -23,6 +23,15 @@ werden können.
 ## OS
 Raspberry Pi OS getestet
 
+## Features
+- Echtzeitdarstellung von Temperaturen und Kräften
+- Automatische Regelung der Temperatur in der Prüfkammer (Zweipunktregler)
+- Tarierung der Sensoren
+- Statusanzeige Temperaturregelung
+- Export der Daten auf angeschlossene Datenträger
+- Kein zusätzlicher Rechner erforderlich; lediglich Bildschirm und Maus, gegebenenfalls eine Tastatur (alternativ via SSH)
+- Bootet direkt in die Benutzeroberfläche
+
 ## Aufbau Prüfstand
 <img width="740" height="954" alt="image" src="https://github.com/user-attachments/assets/5364d134-ffa6-4f42-b326-7236560d13de" />
 
