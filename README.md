@@ -20,6 +20,9 @@ Anzeigegerät und eine Computermaus notwendig sind. Es wurde eine Möglichkeit z
 Exportieren der Messdaten geschaffen, die zudem in Echtzeit in einem Plot dargestellt
 werden können.
 
+## OS
+Raspberry Pi OS getestet
+
 ## Aufbau Prüfstand
 <img width="740" height="954" alt="image" src="https://github.com/user-attachments/assets/5364d134-ffa6-4f42-b326-7236560d13de" />
 
@@ -38,5 +41,6 @@ werden können.
 ## Temperaturverlauf Regelung
 <img width="936" height="689" alt="image" src="https://github.com/user-attachments/assets/154c5033-4e51-4f18-9362-b33d4e1747b3" />
 
-
+## Kontakt
+kontakt@dannecker-jacob.de
 
